@@ -1,0 +1,26 @@
+Starile: 1 2 3 4 
+Alfabet: a b 
+Stari finale: 1 
+Stare initiala: 1
+Tranzitii:
+1 a 2
+1 b 2
+2 a 2
+2 b 3
+3 a 4
+3 b 3
+4 a 1
+4 b 2
+Starile: 1 2 3 4 
+Alfabet: a b 
+Stari finale: 1 
+Stare initiala: 1
+Tranzitii:
+1 a 2
+1 b 2
+2 a 2
+2 b 3
+3 a 4
+3 b 3
+4 a 1
+4 b 2
